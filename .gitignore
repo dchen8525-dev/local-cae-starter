@@ -1,0 +1,25 @@
+.env
+
+# Maven / Java build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Runtime artifacts
+data/
+workspaces/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
