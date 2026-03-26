@@ -18,7 +18,7 @@ app:
   name: Local CAE Job Service
   database-path: data/jobs.db
   workspace-root: workspaces
-  ansa-executable: 'C:\Program Files\BETA_CAE_Systems\ansa_v24.1.3\win64\ansa64.bat'
+  ansa-executable: 'C:\Users\admin\AppData\Local\Apps\BETA_CAE_Systems\ansa_v24.1.3\ansa64.bat'
   ansa-script-file: 'C:\scripts\run_ansa.py'
   ansa-execpy-prefix: "load_script:"
   ansa-batch-flags:
